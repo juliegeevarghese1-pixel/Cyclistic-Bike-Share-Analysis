@@ -1,2 +1,3 @@
 # Cyclistic-Bike-Share-Analysis
-Google Data Analytics Capstone | Customer Behavior Analysis using R, SQL, Excel, and Tableau
+
+End-to-end customer behavior analysis using R, SQL, Excel, and Tableau to deliver data-driven business recommendations.
